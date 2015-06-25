@@ -38,7 +38,7 @@ cd ../../../SouthAmerica/Peru
 
 #Your Challenge
 
-Write the commands for the following directory changes:
+###Write the commands for the following directory changes:
 
 ?: Mexico City to Caracas
 
