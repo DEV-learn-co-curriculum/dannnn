@@ -36,7 +36,7 @@ cd ../../../SouthAmerica/Peru
 
 ???
 
-###Your Challenge
+#Your Challenge
 
 Write the commands for the following directory changes:
 
@@ -88,4 +88,3 @@ Write the commands for the following directory changes:
 (X) cd ../../../NorthAmerica/Mexico/MexicoCity/../../Europe/Italy/../../Asia/China/Beijing
 
 ???
-
